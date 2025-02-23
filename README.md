@@ -1,8 +1,6 @@
 # Amigo Secreto
 
-<center>
-<img scr="./assets/amigo-secreto.png" alt="Logo del Challenge" />
-</center>
+![Logo del Challenge](assets/amigo-secreto.png)
 
 Este proyecto es una aplicación para organizar juegos de amigo secreto.
 
